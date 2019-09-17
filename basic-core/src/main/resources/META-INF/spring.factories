@@ -1,0 +1,6 @@
+# AutoConfiguration
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+com.glmht.basic.core.base.controller.GlobalController,\
+com.glmht.basic.core.config.DefaultFastjsonConfig,\
+com.glmht.basic.core.config.DefaultProperties,\
+com.glmht.basic.core.config.DefaultWebConfig
